@@ -3,6 +3,7 @@ git:
   path: github.com/clijockey/shipped-python
 script:
   - echo "build commands"
+  - echo "Rob Testing"
   - .shipped/build
   - .shipped/test
 clone:
