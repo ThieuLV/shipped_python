@@ -36,3 +36,6 @@ notify:
       - "https://api.ciscoshipped.io/webhooks/drone"
     on_success: true
     on_failure: true
+  email:
+      recipients:
+          - robedwa@cisco.com
